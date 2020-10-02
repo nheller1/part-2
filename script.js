@@ -18,6 +18,8 @@ if (fertilizer ==="no") {
 if (fertilizer === "yes") {
   
   let brand = prompt("Did you use premium or regular fertilizer?");
+    if(fertilizerType === "premium") {
+        result+= (The yield should be 51.75 bushels per acre.)
   
   
 }
